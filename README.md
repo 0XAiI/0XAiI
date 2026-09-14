@@ -54,7 +54,5 @@ I specialize in low-level systems programming, graphics applications, and backen
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=0xAiI&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=0xAiI&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xAiI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
