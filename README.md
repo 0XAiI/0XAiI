@@ -9,7 +9,7 @@ I specialize in low-level systems programming, graphics applications, and backen
 ### 🌐 Socials & Profile Views
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neozold1c.048@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=M41462&icon=2&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=0xAiI&icon=2&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -54,7 +54,7 @@ I specialize in low-level systems programming, graphics applications, and backen
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=0xAiI&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=M41462&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=0xAiI&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=0xAiI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
